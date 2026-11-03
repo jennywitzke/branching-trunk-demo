@@ -1,1 +1,2 @@
-dark-mode=on
+dark-mode=beta
+
