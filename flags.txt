@@ -1,1 +1,1 @@
-dark-mode=on
+dark-mode=off
